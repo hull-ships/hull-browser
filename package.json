@@ -55,7 +55,7 @@
     "debug": "^3.2.7",
     "es6-promise": "^4.2.8",
     "eventemitter2": "^5.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hull": "^0.13.23",
     "hull-connector": "^1.0.46",
     "hull-connector-dev": "^1.0.46",
